@@ -1,5 +1,2 @@
-#python 3.11.4
-import argparse
-import markdown2
-from pathlib import Path
-from html2text import html2text
+markdown2==2.4.0
+html2text==2020.1.16
