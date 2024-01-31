@@ -26,8 +26,8 @@ The method is similar, except the direction and order of input\
 
 
 ### Options
-There are 2 options available for the `--direction` argument which are:\
-1) `--direction md2html` for Markdown to HTML Conversion (Default)\
+There are 2 options available for the `--direction` argument which are:
+1) `--direction md2html` for Markdown to HTML Conversion (Default)
 2) `--direction html2md` for HTML to Markdown Conversion
 
 
