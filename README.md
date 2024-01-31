@@ -32,7 +32,7 @@ There are 2 options available for the `--direction` argument which are:\
 
 
 ## Example
-For Makrdown to HTML Conversion\
+For Markdown to HTML Conversion\
 `python main.py "...\sample.md" "...\sample.html" --direction md2html`
 
 Similarly, for HTML to Markdown Conversion\
